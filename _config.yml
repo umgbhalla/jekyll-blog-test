@@ -1,24 +1,24 @@
-site: Gesko
-title: Gesko
+site: umgbhalla
+title: umgbhalla
 description: >-
   just a minimalist, personal blog
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
-timezone: Rome
-repo: https://github.com/p0wex/Gesko # site repo [optional]
+timezone: India
+repo: https://github.com/umgbhalla/jekyll-blog-test # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
-  name: p0wex
+  name: umgbhalla
   bio: just a minimalist, personal blog
-  username: p0wex # general username
-  github: p0wex # github username
-  twitter: P0Wex # twitter username
+  username: umgbhalla # general username
+  github: umgbhalla # github username
+  twitter: umgbhalla # twitter username
   email: your-email@email.com # email adress
 
 # URL settings
-url: "https://powex.ml" # Domain Name of host. [username].github.io for github pages
-baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+url: "https://umgbhalla.github.io" # Domain Name of host. [username].github.io for github pages
+baseurl: "/jekyll-blog-test" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 
